@@ -1,5 +1,65 @@
 # 📦 Supply Chain & Inventory Analysis
 
+[🚀 View Live Interactive Dashboard](https://ankit-tripathi-31.github.io/Supply-Chain-Inventory-Analysis1/)
+
+[💻 View GitHub Repository](https://github.com/Ankit-Tripathi-31/Supply-Chain-Inventory-Analysis1)
+
+## 📌 Project Overview
+
+An end-to-end data analytics project focused on analyzing supply chain operations, inventory performance, supplier efficiency, and product profitability.
+
+## 🛠️ Tools & Technologies
+
+- Python
+- Pandas
+- Microsoft Excel
+- HTML
+- CSS
+- JavaScript
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualization
+
+## 📊 Project Highlights
+
+- Analyzed 15,000 records.
+- Identified low-stock and out-of-stock inventory.
+- Evaluated supplier and product profitability.
+- Analyzed shipping and inventory performance.
+- Developed an interactive web-based dashboard.
+
+## 💡 Key Business Insights
+
+- Identified products requiring inventory replenishment.
+- Compared supplier profitability.
+- Evaluated product-level sales and gross profit.
+- Examined inventory availability across locations.
+
+## 📁 Project Files
+
+- `clean_analyze.py` – Data analysis script
+- `cleaned_dataset.csv` – Cleaned dataset
+- `analysis_summary.xlsx` – Analysis summary
+- `analysis_report.md` – Analytical report
+- `index.html` – Dashboard interface
+- `styles.css` – Dashboard styling
+- `dashboard.js` – Dashboard functionality
+- `dashboard_data.js` – Dashboard data
+
+## 🌐 Live Dashboard
+
+Explore the interactive dashboard:
+
+https://ankit-tripathi-31.github.io/Supply-Chain-Inventory-Analysis1/
+
+## 👨‍💻 Author
+
+Ankit Kumar Tripathi
+
+GitHub: https://github.com/Ankit-Tripathi-31
+
+# 📦 Supply Chain & Inventory Analysis
+
 ## 🚀 Live Interactive Dashboard
 
 **[Click here to explore the live dashboard](https://ankit-tripathi-31.github.io/Supply-Chain-Inventory-Analysis1/)**

@@ -1,3 +1,13 @@
+# 📦 Supply Chain & Inventory Analysis
+
+## 🚀 Live Interactive Dashboard
+
+**[Click here to explore the live dashboard](https://ankit-tripathi-31.github.io/Supply-Chain-Inventory-Analysis1/)**
+
+Explore interactive visualizations, inventory KPIs, supplier performance, stock availability, and business insights.
+
+---
+
 # Supply Chain & Inventory Analysis
 
 An interactive, browser-based dashboard for the supplied 15,000-record supply-chain workbook. The dashboard works offline with its generated default data file and can load other CSV datasets with the same columns.
